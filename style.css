@@ -1,1 +1,11 @@
+body {
+    color: white;
+    text-align: center;
+    background-color: brown;
+    background-image: url(http://craftsmanave.com/v2/wp-content/uploads/2018/06/RHandt_18_0524_WoodWorking_082.jpg);
+}
 
+img {
+    width: 20%;
+
+}
